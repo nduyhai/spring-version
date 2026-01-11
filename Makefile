@@ -1,4 +1,4 @@
-APP_NAME ?= spring-boot-template
+APP_NAME ?= spring-version
 COMPOSE_FILE ?= docker/docker-compose.yml
 
 compose-up:

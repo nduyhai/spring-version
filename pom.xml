@@ -11,7 +11,7 @@
     <groupId>com.nduyhai</groupId>
     <artifactId>template</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-template</name>
+    <name>spring-version</name>
     <description>Template project for Spring Boot</description>
     <properties>
         <java.version>25</java.version>

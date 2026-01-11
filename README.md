@@ -78,10 +78,10 @@ make docker-build-native
 ```
 
 Resulting images:
-- spring-boot-template:latest
-- spring-boot-template:aot
-- spring-boot-template:cds
-- spring-boot-template:native
+- spring-version:latest
+- spring-version:aot
+- spring-version:cds
+- spring-version:native
 
 ---
 
